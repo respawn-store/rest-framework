@@ -1,0 +1,7 @@
+cerberus
+pyquerystring
+parse-accept-language
+jsondiff
+marshmallow
+marshmallow-objects>=2.0.0
+apispec
